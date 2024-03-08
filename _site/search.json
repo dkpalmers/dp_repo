@@ -9,14 +9,14 @@
   {
     "objectID": "story_telling.html",
     "href": "story_telling.html",
-    "title": "about me",
+    "title": "about David Palmer",
     "section": "",
     "text": "MarkDown Basics"
   },
   {
     "objectID": "story_telling.html#title-2-header",
     "href": "story_telling.html#title-2-header",
-    "title": "about me",
+    "title": "about David Palmer",
     "section": "",
     "text": "MarkDown Basics"
   },
@@ -28,9 +28,9 @@
     "text": "Project 1\nProject 2\nProject 3\nProject 4\nProject 5"
   },
   {
-    "objectID": "projects.html#repo-for-all-my-projects",
-    "href": "projects.html#repo-for-all-my-projects",
-    "title": "DS250 Projects",
+    "objectID": "projects.html#my-teacher-told-me-not-to-publish-these",
+    "href": "projects.html#my-teacher-told-me-not-to-publish-these",
+    "title": "DS350 Projects",
     "section": "",
     "text": "Project 1\nProject 2\nProject 3\nProject 4\nProject 5"
   },
@@ -39,7 +39,7 @@
     "href": "Projects/project4.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top"
+    "text": "Paste in a template\nOkay. I’m not sure what a template is. A template for what? Where do I find it?\n\n\nCode\nlibrary(tidyverse)\nplot(1:20)\n\n\n\n\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "Projects/project2.html",
@@ -201,12 +201,5 @@
     "title": "Client Report - [Insert Project Title]",
     "section": "",
     "text": "Uncomment the entire section to use this template\n\n\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "projects.html#my-teacher-told-me-not-to-publish-these",
-    "href": "projects.html#my-teacher-told-me-not-to-publish-these",
-    "title": "DS350 Projects",
-    "section": "",
-    "text": "Project 1\nProject 2\nProject 3\nProject 4\nProject 5"
   }
 ]
