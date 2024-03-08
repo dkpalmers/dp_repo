@@ -1,11 +1,11 @@
 ---
-title: "DS250 Projects"
+title: "DS350 Projects"
 subtitle: "Repo for all my Projects"
 # use quarto markdown to 
 ---
 
-# DS250 Projects
-## Repo for all my Projects
+# DS350 Projects
+## My Teacher Told me Not to Publish These!
 
 - [Project 1](/Projects/project1.qmd)
 - [Project 2](/Projects/project2.qmd)

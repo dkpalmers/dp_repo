@@ -26,3 +26,11 @@ execute:
 ---
 
 ### Paste in a template
+
+Okay. I'm not sure what a template is. A template for what? Where do I find it?
+
+```{r}
+library(tidyverse)
+plot(1:20)
+```
+
